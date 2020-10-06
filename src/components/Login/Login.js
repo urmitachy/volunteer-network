@@ -7,7 +7,8 @@ import "firebase/analytics";
 import "firebase/auth";
 import "firebase/firestore";
 import logo from '../../image/logos/Group 1329.png';
-import google from '../../image/images/google.png';
+import google from '../../image/images/google2.jpg';
+import './Login.css'
 
 const Login = () => {
     const [loggedInUser, setLoggedInUser] = useContext(UserContext);
