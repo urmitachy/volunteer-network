@@ -1,0 +1,14 @@
+.register{
+    margin: 15px;
+    padding-left: 5px;
+}
+.ml-auto{
+    margin: 10px;
+}
+.header{
+    text-align: center;
+}
+.FormControl{
+    width: 500px;
+    margin: auto;
+}
